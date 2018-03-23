@@ -1,0 +1,36 @@
+{
+  "configVersion": 1,
+  "index": "/PWA-Angular/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/PWA-Angular/favicon.ico",
+        "/PWA-Angular/index.html",
+        "/PWA-Angular/inline.318b50c57b4eba3d437b.bundle.js",
+        "/PWA-Angular/main.ccb3d6ca54f6631517ae.bundle.js",
+        "/PWA-Angular/polyfills.bf95165a1d5098766b92.bundle.js",
+        "/PWA-Angular/styles.ac89bfdd6de82636b768.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/PWA-Angular/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "/PWA-Angular/main.ccb3d6ca54f6631517ae.bundle.js": "e751180018ae673392e28580f7def25223adcb4f",
+    "/PWA-Angular/polyfills.bf95165a1d5098766b92.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
+    "/PWA-Angular/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/PWA-Angular/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/PWA-Angular/index.html": "ee39d89e105b59658a52d85c90709c8210bfe1b6"
+  }
+}
