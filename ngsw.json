@@ -10,7 +10,7 @@
         "/PWA-Angular/favicon.ico",
         "/PWA-Angular/index.html",
         "/PWA-Angular/inline.318b50c57b4eba3d437b.bundle.js",
-        "/PWA-Angular/main.bef0e878b5d806ceab9f.bundle.js",
+        "/PWA-Angular/main.ccb3d6ca54f6631517ae.bundle.js",
         "/PWA-Angular/polyfills.bf95165a1d5098766b92.bundle.js",
         "/PWA-Angular/styles.ac89bfdd6de82636b768.bundle.css"
       ],
@@ -30,10 +30,10 @@
   "hashTable": {
     "/PWA-Angular/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "/PWA-Angular/assets/android-chrome-512x512.png": "b7a5b040a49ebf8a8e175bc2d43c78dafed5f046",
-    "/PWA-Angular/main.bef0e878b5d806ceab9f.bundle.js": "dda9bc379dff610508f998249e37400903a24961",
+    "/PWA-Angular/main.ccb3d6ca54f6631517ae.bundle.js": "e751180018ae673392e28580f7def25223adcb4f",
     "/PWA-Angular/polyfills.bf95165a1d5098766b92.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
     "/PWA-Angular/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "/PWA-Angular/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/PWA-Angular/index.html": "3b353c0b87cb16dd3d80b2d442b0a3a3827b1116"
+    "/PWA-Angular/index.html": "6792b8cc5d1ef5ca9cb87ddf69ccba3092ffea9e"
   }
 }
