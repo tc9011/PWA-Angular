@@ -10,9 +10,9 @@
         "/PWA-Angular/favicon.ico",
         "/PWA-Angular/index.html",
         "/PWA-Angular/inline.318b50c57b4eba3d437b.bundle.js",
-        "/PWA-Angular/main.8e2a20b988ac3230c2e4.bundle.js",
-        "/PWA-Angular/polyfills.bf95165a1d5098766b92.bundle.js",
-        "/PWA-Angular/styles.ac89bfdd6de82636b768.bundle.css"
+        "/PWA-Angular/main.e3974971896ad9500141.bundle.js",
+        "/PWA-Angular/polyfills.1457c99db4b6dba06e8d.bundle.js",
+        "/PWA-Angular/styles.91282542d30b85f82ddb.bundle.css"
       ],
       "patterns": []
     },
@@ -21,10 +21,12 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/PWA-Angular/assets/icon-128x128.png",
-        "/PWA-Angular/assets/icon-152x152.png",
-        "/PWA-Angular/assets/icon-256x256.png",
-        "/PWA-Angular/assets/icon-512x512.png"
+        "/PWA-Angular/assets/i18n/en.json",
+        "/PWA-Angular/assets/i18n/zh-CN.json",
+        "/PWA-Angular/assets/imgs/icon-128x128.png",
+        "/PWA-Angular/assets/imgs/icon-152x152.png",
+        "/PWA-Angular/assets/imgs/icon-256x256.png",
+        "/PWA-Angular/assets/imgs/icon-512x512.png"
       ],
       "patterns": []
     }
@@ -32,14 +34,16 @@
   "dataGroups": [],
   "hashTable": {
     "/PWA-Angular/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "/PWA-Angular/assets/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
-    "/PWA-Angular/main.8e2a20b988ac3230c2e4.bundle.js": "ee0006430b29cf555dd9799a09add368978a7278",
-    "/PWA-Angular/assets/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
-    "/PWA-Angular/polyfills.bf95165a1d5098766b92.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
-    "/PWA-Angular/assets/icon-256x256.png": "aa794bf00591bd06c9fee00126b321baa155ee8d",
-    "/PWA-Angular/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-    "/PWA-Angular/assets/icon-512x512.png": "ad9b5746e8a586f161f92b21f97c4cd81b157965",
+    "/PWA-Angular/assets/i18n/en.json": "f1d0cd424890fa6c2575d7b5d1979744452ac27f",
+    "/PWA-Angular/main.e3974971896ad9500141.bundle.js": "238d834909033d0d3ba3acc7d23ea8be71c53eb0",
+    "/PWA-Angular/assets/i18n/zh-CN.json": "0242f030786819e48f91c0e9dbd26fb0a797f058",
+    "/PWA-Angular/polyfills.1457c99db4b6dba06e8d.bundle.js": "c7b365ef47db91a7d672881b233f740827cbc545",
+    "/PWA-Angular/assets/imgs/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
+    "/PWA-Angular/styles.91282542d30b85f82ddb.bundle.css": "9d00b81a62e6e1160b74dbea540f18eef96a7324",
+    "/PWA-Angular/assets/imgs/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
     "/PWA-Angular/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/PWA-Angular/index.html": "a21917ac71fa4b0e6df659a347c21cab9078b3ca"
+    "/PWA-Angular/assets/imgs/icon-256x256.png": "aa794bf00591bd06c9fee00126b321baa155ee8d",
+    "/PWA-Angular/index.html": "71a1181211c8be4a45fe2d107dc274d0a159913d",
+    "/PWA-Angular/assets/imgs/icon-512x512.png": "ad9b5746e8a586f161f92b21f97c4cd81b157965"
   }
 }
