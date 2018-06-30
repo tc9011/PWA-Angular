@@ -105,6 +105,10 @@ MIT
 MIT
 MIT
 
+@angular/router@5.2.9
+MIT
+MIT
+
 @angular/common@5.2.9
 MIT
 MIT
@@ -117,7 +121,11 @@ MIT
 MIT
 MIT
 
-@angular/cdk@5.2.4
+ng-zorro-antd@0.6.15
+MIT
+MIT
+
+@angular/cdk@6.3.1
 MIT
 The MIT License
 
@@ -140,14 +148,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-
-ng-zorro-antd@0.6.15
-MIT
-MIT
-
-@angular/router@5.2.9
-MIT
-MIT
 
 @angular/platform-browser-dynamic@5.2.9
 MIT

@@ -10,7 +10,7 @@
         "/PWA-Angular/favicon.ico",
         "/PWA-Angular/index.html",
         "/PWA-Angular/inline.318b50c57b4eba3d437b.bundle.js",
-        "/PWA-Angular/main.e3974971896ad9500141.bundle.js",
+        "/PWA-Angular/main.d118a6a43cf8e26f1a58.bundle.js",
         "/PWA-Angular/polyfills.1457c99db4b6dba06e8d.bundle.js",
         "/PWA-Angular/styles.91282542d30b85f82ddb.bundle.css"
       ],
@@ -23,6 +23,7 @@
       "urls": [
         "/PWA-Angular/assets/i18n/en.json",
         "/PWA-Angular/assets/i18n/zh-CN.json",
+        "/PWA-Angular/assets/imgs/angular-white-transparent.svg",
         "/PWA-Angular/assets/imgs/icon-128x128.png",
         "/PWA-Angular/assets/imgs/icon-152x152.png",
         "/PWA-Angular/assets/imgs/icon-256x256.png",
@@ -35,15 +36,16 @@
   "hashTable": {
     "/PWA-Angular/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "/PWA-Angular/assets/i18n/en.json": "f1d0cd424890fa6c2575d7b5d1979744452ac27f",
-    "/PWA-Angular/main.e3974971896ad9500141.bundle.js": "238d834909033d0d3ba3acc7d23ea8be71c53eb0",
+    "/PWA-Angular/main.d118a6a43cf8e26f1a58.bundle.js": "eafb478765d435c6313b4b767c5777e68b0a845d",
     "/PWA-Angular/assets/i18n/zh-CN.json": "0242f030786819e48f91c0e9dbd26fb0a797f058",
     "/PWA-Angular/polyfills.1457c99db4b6dba06e8d.bundle.js": "c7b365ef47db91a7d672881b233f740827cbc545",
-    "/PWA-Angular/assets/imgs/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
+    "/PWA-Angular/assets/imgs/angular-white-transparent.svg": "3d3538c3683d6937a39c92d17a27d2637fba70f5",
     "/PWA-Angular/styles.91282542d30b85f82ddb.bundle.css": "9d00b81a62e6e1160b74dbea540f18eef96a7324",
-    "/PWA-Angular/assets/imgs/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
+    "/PWA-Angular/assets/imgs/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
     "/PWA-Angular/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/PWA-Angular/assets/imgs/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
+    "/PWA-Angular/index.html": "db2e1bef6427c259f5db550e0b7475f2b69c2ea1",
     "/PWA-Angular/assets/imgs/icon-256x256.png": "aa794bf00591bd06c9fee00126b321baa155ee8d",
-    "/PWA-Angular/index.html": "ae17506d90d0e6bc6dabbde4d24746e0deab2f30",
     "/PWA-Angular/assets/imgs/icon-512x512.png": "ad9b5746e8a586f161f92b21f97c4cd81b157965"
   }
 }
