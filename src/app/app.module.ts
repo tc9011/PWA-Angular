@@ -7,19 +7,28 @@ import { AppComponent } from './app.component';
 
 import { environment } from '../environments/environment';
 import { SharedModule } from './shared/shared.module';
-import { SidebarModule } from './shared/component/sidebar/sidebar.module';
+import { DronestreComponent } from './dronestre/dronestre.component';
+import { DronestreService } from './dronestre/services/dronestre.service';
+import { HttpService } from './shared/services/http.service';
+import { RouterModule } from '@angular/router';
+import { appRoutes } from './app.routes';
+import { HomeComponent } from './home/home.component';
+import { NavbarComponent } from './shared/component/navbar/navbar.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    DronestreComponent,
+    HomeComponent,
+    NavbarComponent
   ],
   imports: [
     BrowserModule,
     SharedModule,
-    SidebarModule,
+    RouterModule.forRoot(appRoutes),
     ServiceWorkerModule.register('ngsw-worker.js', {enabled: environment.production})
   ],
-  providers: [],
+  providers: [DronestreService, HttpService],
   bootstrap: [AppComponent]
 })
 export class AppModule {
