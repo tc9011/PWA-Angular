@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { DronestreService } from './services/dronestre.service';
+import { Attribution } from './dronestre.typings';
 
 @Component({
   selector: 'app-dronestre',
@@ -8,9 +9,15 @@ import { DronestreService } from './services/dronestre.service';
 })
 export class DronestreComponent implements OnInit {
   href: string;
-  attribution: any;
+  attribution: Attribution;
 
   constructor(private dronestreService: DronestreService) {
+    this.attribution = {
+      license: '',
+      photographer: '',
+      site: '',
+      source: '',
+    };
   }
 
   ngOnInit() {

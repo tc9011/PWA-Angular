@@ -1,15 +1,10 @@
-.container {
-  display: flex;
-  flex-direction: column;
-  position: absolute;
-  top: 52px;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  h1 {
-    text-align: center;
-  }
+h1 {
+  text-align: center;
 }
 
 .angular-logo {
+  display: block;
+  height: 540px;
+  width: 540px;
+  margin: 0 auto;
 }
