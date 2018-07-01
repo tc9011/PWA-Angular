@@ -1,4 +1,3 @@
-import { DronestreComponent } from './dronestre/dronestre.component';
 import { HomeComponent } from './home/home.component';
 
 export const appRoutes = [
@@ -13,7 +12,7 @@ export const appRoutes = [
   },
   {
     path: 'dronestre',
-    component: DronestreComponent,
+    loadChildren: './dronestre/dronestre.module#DronestreModule',    //lazy load
   },
   {
     path: '**',
