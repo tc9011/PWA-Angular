@@ -10,7 +10,7 @@
         "/PWA-Angular/favicon.ico",
         "/PWA-Angular/index.html",
         "/PWA-Angular/inline.318b50c57b4eba3d437b.bundle.js",
-        "/PWA-Angular/main.46d065def068ddd04e43.bundle.js",
+        "/PWA-Angular/main.fc2bb75f62c214f83b1b.bundle.js",
         "/PWA-Angular/polyfills.bf95165a1d5098766b92.bundle.js",
         "/PWA-Angular/styles.91282542d30b85f82ddb.bundle.css"
       ],
@@ -36,7 +36,7 @@
   "hashTable": {
     "/PWA-Angular/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "/PWA-Angular/assets/i18n/en.json": "f1d0cd424890fa6c2575d7b5d1979744452ac27f",
-    "/PWA-Angular/main.46d065def068ddd04e43.bundle.js": "1009d19f6375095095055c39829af333bcce24dc",
+    "/PWA-Angular/main.fc2bb75f62c214f83b1b.bundle.js": "def66e8354d4be0e053ad5b7cd46fd7bd452b944",
     "/PWA-Angular/assets/i18n/zh-CN.json": "0242f030786819e48f91c0e9dbd26fb0a797f058",
     "/PWA-Angular/polyfills.bf95165a1d5098766b92.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
     "/PWA-Angular/assets/imgs/angular-white-transparent.svg": "3d3538c3683d6937a39c92d17a27d2637fba70f5",
@@ -44,7 +44,7 @@
     "/PWA-Angular/assets/imgs/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
     "/PWA-Angular/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/PWA-Angular/assets/imgs/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
-    "/PWA-Angular/index.html": "c67e26ec466b3b8e672f59e982bfcc8f8b9dd758",
+    "/PWA-Angular/index.html": "65d9b26b93f5f2e522c5d5b299177adbbd71838d",
     "/PWA-Angular/assets/imgs/icon-256x256.png": "aa794bf00591bd06c9fee00126b321baa155ee8d",
     "/PWA-Angular/assets/imgs/icon-512x512.png": "ad9b5746e8a586f161f92b21f97c4cd81b157965"
   }
