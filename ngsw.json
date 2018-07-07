@@ -11,7 +11,7 @@
         "/PWA-Angular/index.html",
         "/PWA-Angular/0.115160394e5bebe99082.chunk.js",
         "/PWA-Angular/inline.69842fd5fd2865de7346.bundle.js",
-        "/PWA-Angular/main.345639cfa7ea23727f2b.bundle.js",
+        "/PWA-Angular/main.82c8961bd891ecd84174.bundle.js",
         "/PWA-Angular/polyfills.1457c99db4b6dba06e8d.bundle.js",
         "/PWA-Angular/styles.91282542d30b85f82ddb.bundle.css"
       ],
@@ -39,7 +39,7 @@
     "/PWA-Angular/assets/i18n/en.json": "f1d0cd424890fa6c2575d7b5d1979744452ac27f",
     "/PWA-Angular/inline.69842fd5fd2865de7346.bundle.js": "f5467a6a0a5d8aefb537868cd97c8216a3c0306f",
     "/PWA-Angular/assets/i18n/zh-CN.json": "0242f030786819e48f91c0e9dbd26fb0a797f058",
-    "/PWA-Angular/main.345639cfa7ea23727f2b.bundle.js": "447e2d782a0add06ab66822e20912adaf161816e",
+    "/PWA-Angular/main.82c8961bd891ecd84174.bundle.js": "1e6303a1b8a3a2d69273d1a61a1435b4ffd10e18",
     "/PWA-Angular/assets/imgs/angular-white-transparent.svg": "3d3538c3683d6937a39c92d17a27d2637fba70f5",
     "/PWA-Angular/polyfills.1457c99db4b6dba06e8d.bundle.js": "c7b365ef47db91a7d672881b233f740827cbc545",
     "/PWA-Angular/assets/imgs/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
@@ -47,7 +47,7 @@
     "/PWA-Angular/assets/imgs/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
     "/PWA-Angular/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/PWA-Angular/assets/imgs/icon-256x256.png": "aa794bf00591bd06c9fee00126b321baa155ee8d",
-    "/PWA-Angular/index.html": "a5ba2bd22faea4c8253043e1a80dd7ba6b20d752",
+    "/PWA-Angular/index.html": "8bd1c1f2b63421fb270b3439555d016c97b227d1",
     "/PWA-Angular/assets/imgs/icon-512x512.png": "ad9b5746e8a586f161f92b21f97c4cd81b157965"
   }
 }
