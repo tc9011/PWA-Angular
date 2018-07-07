@@ -1,7 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
-import { ServiceWorkerModule } from '@angular/service-worker';
+import { ServiceWorkerModule, SwPush, SwUpdate } from '@angular/service-worker';
 import { AppComponent } from './app.component';
 
 import { environment } from '../environments/environment';
@@ -24,7 +24,7 @@ import { NavbarComponent } from './shared/component/navbar/navbar.component';
     RouterModule.forRoot(appRoutes),
     ServiceWorkerModule.register('ngsw-worker.js', {enabled: environment.production})
   ],
-  providers: [HttpService],
+  providers: [HttpService, SwPush, SwUpdate],
   bootstrap: [AppComponent]
 })
 export class AppModule {
