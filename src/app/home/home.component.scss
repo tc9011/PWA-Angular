@@ -6,3 +6,20 @@ h1 {
   display: block;
   margin: 0 auto;
 }
+
+.button-primary {
+  width: 100px;
+  display: block;
+  margin: 40px auto 0;
+  height: 50px;
+  background: #3f51b5;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  &:focus {
+    outline: none;
+  }
+  &:active {
+    background: #5160af;
+  }
+}

@@ -11,6 +11,7 @@ import { RouterModule } from '@angular/router';
 import { appRoutes } from './app.routes';
 import { HomeComponent } from './home/home.component';
 import { NavbarComponent } from './shared/component/navbar/navbar.component';
+import { NewsletterService } from './shared/services/newsletter.service';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,7 @@ import { NavbarComponent } from './shared/component/navbar/navbar.component';
     RouterModule.forRoot(appRoutes),
     ServiceWorkerModule.register('ngsw-worker.js', {enabled: environment.production})
   ],
-  providers: [HttpService, SwPush, SwUpdate],
+  providers: [HttpService, SwPush, SwUpdate, NewsletterService],
   bootstrap: [AppComponent]
 })
 export class AppModule {
