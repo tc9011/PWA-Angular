@@ -1,7 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
-import { ServiceWorkerModule, SwPush, SwUpdate } from '@angular/service-worker';
+import { ServiceWorkerModule, SwPush } from '@angular/service-worker';
 import { AppComponent } from './app.component';
 
 import { environment } from '../environments/environment';
@@ -25,7 +25,7 @@ import { NewsletterService } from './shared/services/newsletter.service';
     RouterModule.forRoot(appRoutes),
     ServiceWorkerModule.register('ngsw-worker.js', {enabled: environment.production})
   ],
-  providers: [HttpService, SwPush, SwUpdate, NewsletterService],
+  providers: [HttpService, SwPush, NewsletterService],
   bootstrap: [AppComponent]
 })
 export class AppModule {
