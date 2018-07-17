@@ -9,7 +9,7 @@ import { NewsletterService } from '../shared/services/newsletter.service';
 })
 export class HomeComponent implements OnInit {
   title = 'app';
-  readonly VAPID_PUBLIC_KEY = "BGLvKcMgoR0gwl-6xE937LVoDdRl6dxQVz7Re4w04nLZovXCHzhjvxrLmz0HU26RWRqeHzIRU5ACFeJv04apj0A";
+  readonly VAPID_PUBLIC_KEY = "BOQlkHNohkLnznNA3rH9tPIyPsTwDd7L1AZvSoA7iIy-Bkbep20BJuQW1X0rh-r7M7zhlMo2NOLKhX-zbg5hMWY";
 
   constructor(private swPush: SwPush,
               private newsletterService: NewsletterService) { }
